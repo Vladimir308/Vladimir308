@@ -30,6 +30,9 @@ Thank you for your attention
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Petstore&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Petstore.git)
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Browser_Stack_20&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Browser_Stack_20.git)
 
+### Stats
+![Vladimir GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir308&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
+
 
 
 
