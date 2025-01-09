@@ -26,9 +26,9 @@ Thank you for your attention
 ### Мои проекты
 **QA GURU** (Курс автоматизации тестирования на Java, [подробнее](https://qa.guru/java))  
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anastasia-yildirim&repo=bookstore-ui-tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/X5_Group_14.git)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anastasia-yildirim&repo=resreq-api-tests&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Petstore.git)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=anastasia-yildirim&repo=mobile&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Browser_Stack_20.git)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=XGroup&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/X5_Group_14.git)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Petstore&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Petstore.git)
+[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Browserstack&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Browser_Stack_20.git)
 
 
 
