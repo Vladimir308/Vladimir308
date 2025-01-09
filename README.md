@@ -12,7 +12,7 @@
 
 ### You can find me on:
 + [Telegram](https://t.me/VladimirMiluykov)
-+ [Email] - vova.milyukov.94@bk.ru
++ Email - vova.milyukov.94@bk.ru
 
 ### My projects
 **QA GURU** (Курс автоматизации тестирования на Java, [подробнее](https://qa.guru/java))  
