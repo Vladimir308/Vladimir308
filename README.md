@@ -1,10 +1,5 @@
-
-
-
 <h1 align="center">Hi there, I'm Vladimir   👋 </h1>
 <h3 align="left"> I'm  QA Engineer  </h3>
-
-
 
 ### My technology stack is:
 
@@ -14,21 +9,22 @@
 |              Browserstack               |              Appium               |          Android studio           |            Selenium            |            GitHub             |                 |                     |                                                           |
 | ![Browserstack](icons/browserstack.svg) |       ![](icons/appium.png)       |   ![](icons/Android-studio.svg)   |     ![](icons/Selenium.png)    |     ![](icons/GitHub.svg)     |                                           |                                         |
 
-
-
 ### You can find me on:
-
 +  [Telegram](https://t.me/VladimirMiluykov)
 + Email - vova.milyukov.94@bk.ru
-
 Thank you for your attention
 
 ### My projects
 **QA GURU** (Курс автоматизации тестирования на Java, [подробнее](https://qa.guru/java))  
 
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=X5_Group_14&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/X5_Group_14.git)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Petstore&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Petstore.git)
-[![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Browser_Stack_20&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/Browser_Stack_20.git)
+### :star: Проект UI автоматизации сайта [X5Group](https://www.x5.ru)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=X5_Group_14)](https://github.com/Vladimir308/X5_Group_14.git)
+
+### :bangbang: Проект API автоматизации  сервиса [Petstore](https://petstore.swagger.io/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Petstore)](https://github.com/Vladimir308/Petstore.git)
+
+### :phone:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=Browser_Stack_20)](https://github.com/Vladimir308/Browser_Stack_20.git)
 
 ### Stats
 ![Vladimir GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir308&show_icons=true&bg_color=D3E2FD&title_color=182D71&text_color=182D71&icon_color=B07219)
