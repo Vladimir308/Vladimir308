@@ -23,7 +23,7 @@
 
 Thank you for your attention
 
-### Мои проекты
+### My projects
 **QA GURU** (Курс автоматизации тестирования на Java, [подробнее](https://qa.guru/java))  
 
 [![QA Guru Test Automation School](https://github-readme-stats.vercel.app/api/pin/?username=Vladimir308&repo=X5_Group_14&title_color=182D71&text_color=182D71&icon_color=B07219&bg_color=D3E2FD)](https://github.com/Vladimir308/X5_Group_14.git)
